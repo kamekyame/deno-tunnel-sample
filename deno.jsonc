@@ -1,0 +1,12 @@
+{
+  "lock": false,
+  "lint": {
+    "rules": {
+      "exclude": ["no-import-prefix", "no-unversioned-import"]
+    }
+  },
+  "deploy": {
+    "org": "kamekyame",
+    "app": "deno-tunnel-sample"
+  }
+}
